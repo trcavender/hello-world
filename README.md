@@ -1,2 +1,5 @@
 # hello-world
-Just another repository for Assignment 6 in CS 222
+
+Hi all!
+
+This is just for practice. I enjoy swimming.
